@@ -10,5 +10,5 @@ Aqui vou postar todos os códigos dos exercícios dos cursos que estou fazendo n
 
 (iii) Curso de Git e GitHub - Curso em Vídeo com Gustavo Guanabara.
 
-São Paulo - SP - Brasil.
+São Paulo - Brasil
 Edmilson Libanio Paulo
