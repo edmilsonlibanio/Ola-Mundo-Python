@@ -8,7 +8,7 @@ Aqui vou postar todos os códigos dos exercícios dos seguintes cursos de Python
 
 (ii) Livro: Python e Django Desenvolvimento Web Moderno e Ágil - Francisco Marcelo de Barros Maciel; e
 
-(iii) Youtube: Curso de Python 3 - Curso em Vídeo - Gustavo Guanabara.
+(iii) Youtube: Curso de Python 3 - Curso em Vídeo - Gustavo Guanabara (pasta:cursoemvideopython).
 
 São Paulo - Brasil -
 Edmilson Libanio Paulo
