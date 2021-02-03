@@ -1,7 +1,10 @@
-km = float(input('Qual a km percorrida? '))
-dias = int(input('Em quantos dias de aluguel? '))
-kmvalor = km * 0.15
-diariavalor = dias * 60.00
-total = diariavalor + kmvalor
-print('O valor total a pagar por {} dias de aluguel e {:.2f} kilometros 
-rodados é R$ {:.2f} '.format(dias, km, total))
+usuario = input('Informe o seu nome: ')
+carro = input('Qual carro foi alugado? ')
+km = float(input('Informe a kilometragem total percorrida: '))
+diarias = int(input('Informe a quantidade de diárias do veículo: '))
+vdiarias = (diarias * 60.00)
+vkm = (km * 0.15)
+print('Prezado {}!'.format(usuario))
+print('O veículo {} foi alugado por um total de {} dias, totalizando {:.2f} kilometros percorridos.'.format(carro, diarias, km))
+print('Considerando o valor de R$ 60,00 a diária e R$ 0,15 por kilometro percorrido, segue o valor total a pagar:')
+print('Valor total: R$ {:.2f}'.format(vkm + vdiarias))

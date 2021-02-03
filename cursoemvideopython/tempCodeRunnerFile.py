@@ -1,0 +1,8 @@
+n = input('Digite algo: ')
+print(n.isalnum))
+print(n.isalpha))
+print(n.isascii))
+print(n.isidentifier))
+print(n.istitle))
+print(n.isspace))
+print(n.isupper))
