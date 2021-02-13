@@ -1,4 +1,4 @@
-# o exemplo abaixo trabalha os conceitos de importação de biblioteca na linha 2 e de raiz quadrada (sqrt) na linha 4.
+# o exemplo abaixo trabalha os conceitos de importação de biblioteca na linha 2 e de  utilização do módulo de raiz quadrada (sqrt) na linha 4.
 from math import sqrt
 num = int(input('Digite um número: '))
 raiz = sqrt(num)
