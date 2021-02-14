@@ -1,0 +1,1 @@
+# fazer depois, erro no pygame
