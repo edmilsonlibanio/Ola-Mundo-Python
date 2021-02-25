@@ -1,3 +1,5 @@
+# Desafio nº 9 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada. 
+
 n = int(input('Digite um número para ver a sua tabuada: '))
 print(12*'=')
 print('{} x {} = {}'.format(n, 1, n*1))

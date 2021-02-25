@@ -1,3 +1,5 @@
+# Desafio nº 19 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+
 import random
 
 aluno_01 = input('Informe o nome do aluno: ')
@@ -12,6 +14,10 @@ escolhido = random.choice(lista)
 print('Prezado Professor, a sua turma de matemática é formada pelos alunos: {}, {}, {} e {}.'.format( aluno_01, aluno_02, aluno_03, aluno_04))
 
 print('O aluno {} apagará o quadro hoje!'.format(escolhido))
+
+
+
+
 
 # Nesse exercício aprendemos a importação do módulo Random na linha 2. Outro conceito aprendido foi o de lista na linha 9, onde #lista é uma variavel que tem como parametros os seus itens listados e separados por virgula dentro de chaves [a, b,c, d].
 

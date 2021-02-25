@@ -1,3 +1,5 @@
+# Desafio nº 6 - Crie um algoritmo que leia um número e mostre o seu dobro, triplo e a raiz quadrada.
+
 n = int(input('Insira um número: '))
 nd = n*2
 nt = n*3

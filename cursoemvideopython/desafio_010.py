@@ -1,3 +1,5 @@
+# Desafio nº 10 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar (considerar 1 dólar  a 3,27). 
+
 saldo = float(input('Quanto dinheiro voce tem em carteira? R$ '))
 dolar = 3.27
 conversao = (saldo/dolar)

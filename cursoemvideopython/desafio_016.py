@@ -1,3 +1,5 @@
+# Desafio nº 16 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira. Dica: Olhar todas as funções que tem dentro do módulo math usado na aula.
+
 from math import trunc
 numero = float(input('Insira um número real: '))
 inteira = trunc(numero)

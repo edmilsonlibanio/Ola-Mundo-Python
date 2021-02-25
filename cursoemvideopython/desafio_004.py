@@ -1,3 +1,5 @@
+# Desafio nº 4 - Faça um programa que leia algo escrito pelo usuário no teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
 n1 = input('Digite algo:')
 print('O tipo primitivo digitado é:',type(n1))
 print('Só tem espaços?',n1.isspace())
