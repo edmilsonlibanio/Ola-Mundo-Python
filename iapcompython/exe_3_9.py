@@ -1,5 +1,7 @@
 dia = int(input('Informe a quantidade de dias: '))
 horas = int(input('Informe a quantidade de horas: '))
+# Escreve um programa que leia a quantidade de dias, horas, minutos e segundos fornecidos pelo usuário. Ao final calcular o total em segundos.
+
 minutos = int(input('Informe a quantidade de minutos: '))
 segundos = int(input('Informe a quantidade de segundos: '))
 diacalculo = dia * 24 * 60 * 60

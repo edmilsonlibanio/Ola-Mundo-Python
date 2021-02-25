@@ -1,4 +1,5 @@
-# Completar a tabela respondendo True ou False:
+# Complete a tabela respondendo True ou False, considerando:
+
 a = 4
 b = 10
 c = 5.0

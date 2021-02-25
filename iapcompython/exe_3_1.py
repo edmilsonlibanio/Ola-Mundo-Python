@@ -1,4 +1,5 @@
-# Completar a tabela informando se são números inteiros ou de ponto flutuante:
+# Complete a tabela informando se são números inteiros ou de ponto flutuante:
+
 # Número | Tipo Numérico
 # 5      | Número Inteiro
 # 5.0    | Número de Ponto Flutuante
