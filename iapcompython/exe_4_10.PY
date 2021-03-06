@@ -1,0 +1,1 @@
+# Escreva um programa que calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kwh consumida e o tipo de instalção: 'R', 'I' para indústrias e 'C' para Comércios. Calcule o preço a pagar de acordo com a tabela a seguir (tabela consta na página 83 do livro):
