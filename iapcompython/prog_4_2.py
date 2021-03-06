@@ -1,4 +1,4 @@
-# Programa: Carro Velho ou Carro Novo?
+# Programa: Carro Velho ou Carro Novo (usando apenas if 2 vezes)? 
 
 idade = int(input('Digite a idade do seu carro: '))
 if idade <= 3:
